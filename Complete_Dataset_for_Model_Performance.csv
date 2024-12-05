@@ -1,0 +1,28 @@
+Classifier,Dataset,Partition (%),Train Accuracy,Validation Accuracy,Test Accuracy
+Logistic Regression,School Dropout,20,0.85,0.83,0.84
+Logistic Regression,School Dropout,50,0.86,0.85,0.84
+Logistic Regression,School Dropout,80,0.85,0.85,0.84
+Logistic Regression,Bank Marketing,20,0.8,0.79,0.8
+Logistic Regression,Bank Marketing,50,0.8,0.8,0.8
+Logistic Regression,Bank Marketing,80,0.8,0.8,0.81
+Logistic Regression,Census Income,20,0.82,0.81,0.81
+Logistic Regression,Census Income,50,0.82,0.82,0.82
+Logistic Regression,Census Income,80,0.82,0.82,0.81
+Random Forest,School Dropout,20,0.86,0.83,0.84
+Random Forest,School Dropout,50,0.87,0.85,0.83
+Random Forest,School Dropout,80,0.9,0.84,0.85
+Random Forest,Bank Marketing,20,0.91,0.81,0.81
+Random Forest,Bank Marketing,50,0.87,0.82,0.82
+Random Forest,Bank Marketing,80,0.85,0.81,0.82
+Random Forest,Census Income,20,0.96,0.82,0.82
+Random Forest,Census Income,50,0.89,0.82,0.83
+Random Forest,Census Income,80,0.88,0.83,0.83
+KNN,School Dropout,20,0.84,0.77,0.79
+KNN,School Dropout,50,0.96,0.8,0.79
+KNN,School Dropout,80,0.96,0.79,0.8
+KNN,Bank Marketing,20,0.77,0.71,0.71
+KNN,Bank Marketing,50,0.77,0.72,0.73
+KNN,Bank Marketing,80,0.95,0.72,0.73
+KNN,Census Income,20,0.85,0.8,0.79
+KNN,Census Income,50,0.84,0.8,0.8
+KNN,Census Income,80,0.85,0.81,0.81
